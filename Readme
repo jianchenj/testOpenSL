@@ -1,0 +1,7 @@
+使用OpenSL 播放pcm音频
+
+1.创建引擎SLEngineItf
+
+2.创建混音器
+
+3 配置音频信息
